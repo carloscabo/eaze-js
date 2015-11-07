@@ -4,7 +4,8 @@ Time (t) based JS easing functions (cubic, quad, quint, circ...)
 ## available functions
 
 ````javascript
-eaze.linear(t)
+eaze.linear(t);
+eaze.lineal(t); // Alias to linear
 eaze.in.quad(t);
 eaze.in.cubic(t);
 eaze.in.quart(t);
