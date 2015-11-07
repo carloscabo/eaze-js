@@ -15,3 +15,4 @@ Time (t) based JS easing functions (cubic, quad, quint, circ...)
 ## TO-DO
 - Add test
 - Write a why this explanation with references
+- Add interactive sample
