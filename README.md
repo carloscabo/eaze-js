@@ -38,8 +38,8 @@ eaze.in_out.elastic(t, amplitude, period);
 ## usage
 
 ````javascript
-  // t valur must be in the [0-1] range
-  // result valuest in the [0-1] range too
+  // t value must be in the [0-1] range
+  // result values in the [0-1] range too
   var r1 = eaze.in.quad(t);
   var r2 = eaze.out.quad(t);
   var r3 = eaze.in_out.quad(t);
