@@ -7,6 +7,7 @@
  * Based in the work of many others
  * http://gizma.com/easing/
  * https://github.com/CharlotteGore/functional-easing
+ * http://joshondesign.com/2013/03/01/improvedEasingEquations
  *
  * Carlos Cabo (@putuko) 2015 V.1.00
  * https://github.com/carloscabo/eaze-js
@@ -126,4 +127,4 @@ eaze = {
       return (amplitude*Math.pow(2,10*t)*Math.sin((t-offset)*(Math.PI*2)/period))/-2;
     }
   }
-}
+};
